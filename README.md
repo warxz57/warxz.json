@@ -1,2 +1,0 @@
-# warxz.json
-security.json
